@@ -1,6 +1,4 @@
 # TimestampMS
-Simple timestamp microservice for freecodecamp project
-
 Simple API for freecodecamp project Timestamp Microservice. Returns the unix and string versions of a unix or string date from GET query.
 
 Use:
